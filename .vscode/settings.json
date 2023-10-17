@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {},
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Program Files\\Java\\javafx-sdk-20.0.1\\lib\\*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "json.schemas": []
+}
